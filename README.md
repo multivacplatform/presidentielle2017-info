@@ -26,9 +26,6 @@ This folder contains a list of keywords and a list of queries which Politoscope 
 ### Topics
 This folder contains the list of all the queries that Politoscope is using to identify the topics of each tweet.
 
-### Bug report and suggestions
-To report a bug, please submit an issue on this repository and include the following information:
+## Code of Conduct
 
-* What did you do? (steps to reproduce the bug)
-* What happened? (actual results)
-* What should have happened? (expected results)
+This, and all github.com/multivacplatform projects, are under the [Multivac Platform Open Source Code of Conduct](https://github.com/multivacplatform/code-of-conduct/blob/master/code-of-conduct.md). Additionally, see the [Typelevel Code of Conduct](http://typelevel.org/conduct) for specific examples of harassing behavior that are not tolerated.
