@@ -1,4 +1,5 @@
-# presidentielle2017
+# presidentielle2017 [![Multivac Discuss](https://img.shields.io/badge/multivac-discuss-ff69b4.svg)](https://discourse.iscpif.fr/c/multivac) [![Multivac Channel](https://img.shields.io/badge/multivac-chat-ff69b4.svg)](https://chat.iscpif.fr/channel/multivac)
+
 Politoscope: [Presidentielle2017](https://presidentielle2017.iscpif.fr)
 
 
